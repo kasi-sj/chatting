@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "62048753547",
+    "project_id": "fast-chat-56061",
+    "storage_bucket": "fast-chat-56061.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62048753547:android:cefe3e1e140b6712d5c18e",
+        "android_client_info": {
+          "package_name": "com.example.chatting12334"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62048753547-33eu07q8svi4rmn8cg1k9f1pcm1va8ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3O-0aVptptGD6u-y4rKZnh5b9lkq8nz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62048753547-33eu07q8svi4rmn8cg1k9f1pcm1va8ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62048753547:android:1370586470ffe2edd5c18e",
+        "android_client_info": {
+          "package_name": "com.example.kasi_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62048753547-33eu07q8svi4rmn8cg1k9f1pcm1va8ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3O-0aVptptGD6u-y4rKZnh5b9lkq8nz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62048753547-33eu07q8svi4rmn8cg1k9f1pcm1va8ld.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
