@@ -22,7 +22,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
     // TODO: implement initState
     super.initState();
     controller =
-        AnimationController(duration: Duration(seconds: 3), vsync: this);
+        AnimationController(duration: Duration(seconds: 1), vsync: this);
 
     animation = CurvedAnimation(parent: controller, curve: Curves.elasticOut);
     tween =
